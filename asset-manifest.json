@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/motion_design_1/static/css/main.f598f8fa.css",
-    "main.js": "/motion_design_1/static/js/main.2f2c3b24.js",
+    "main.css": "/motion_design_1/static/css/main.d6daf9c1.css",
+    "main.js": "/motion_design_1/static/js/main.afc56e63.js",
     "static/media/coke.glb": "/motion_design_1/static/media/coke.c57cf9b8b8e5e4e0a749.glb",
     "index.html": "/motion_design_1/index.html",
-    "main.f598f8fa.css.map": "/motion_design_1/static/css/main.f598f8fa.css.map",
-    "main.2f2c3b24.js.map": "/motion_design_1/static/js/main.2f2c3b24.js.map"
+    "main.d6daf9c1.css.map": "/motion_design_1/static/css/main.d6daf9c1.css.map",
+    "main.afc56e63.js.map": "/motion_design_1/static/js/main.afc56e63.js.map"
   },
   "entrypoints": [
-    "static/css/main.f598f8fa.css",
-    "static/js/main.2f2c3b24.js"
+    "static/css/main.d6daf9c1.css",
+    "static/js/main.afc56e63.js"
   ]
 }
