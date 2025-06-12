@@ -1,10 +1,15 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Hero from "./components/Hero";
+import NikeShoeShowcase from "./components/shoe";
 
 function App() {
   return (
-    <div>
-      <Hero />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Hero />} />
+        <Route path="/nike" element={<NikeShoeShowcase />} />
+      </Routes>
+    </Router>
   );
 }
 

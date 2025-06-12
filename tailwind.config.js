@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
   extend: {
+    fontSize: {
+      'giant': '20vw'
+    },
     fontFamily: {
       playfair: ['Playfair Display', 'serif'],
       dm: ['DM Sans', 'sans-serif'],

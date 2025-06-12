@@ -25,10 +25,8 @@ const textVariants = {
 
 const CokeHero = () => {
   return (
-<div
-      className="relative w-full overflow-hidden font-sans"
-      style={{ height: "100vh", minWidth: "1024px" }} // lock desktop size
-    >      {/* Background image */}
+    <div className="relative w-full h-screen bg-white overflow-hidden font-sans">
+      {/* Background image */}
      
 
       <div className="absolute inset-0 z-0 pointer-events-none">
