@@ -1,20 +1,14 @@
 {
   "files": {
     "main.css": "/motion_design_1/static/css/main.9d80c8ad.css",
-    "main.js": "/motion_design_1/static/js/main.60053cad.js",
+    "main.js": "/motion_design_1/static/js/main.afc56e63.js",
     "static/media/coke.glb": "/motion_design_1/static/media/coke.c57cf9b8b8e5e4e0a749.glb",
-    "static/media/shoe1.png": "/motion_design_1/static/media/shoe1.4ca25921f91303c4099d.png",
-    "static/media/shoe5.png": "/motion_design_1/static/media/shoe5.4857065724a500873826.png",
-    "static/media/shoe4.png": "/motion_design_1/static/media/shoe4.126dc77d4110fa273578.png",
-    "static/media/shoe3.png": "/motion_design_1/static/media/shoe3.8b2edeb085fa72e87ffe.png",
-    "static/media/shoe2.png": "/motion_design_1/static/media/shoe2.2978c21ab3bab53defc0.png",
-    "static/media/nike.png": "/motion_design_1/static/media/nike.107a4873948afc7d8a0b.png",
     "index.html": "/motion_design_1/index.html",
     "main.9d80c8ad.css.map": "/motion_design_1/static/css/main.9d80c8ad.css.map",
-    "main.60053cad.js.map": "/motion_design_1/static/js/main.60053cad.js.map"
+    "main.afc56e63.js.map": "/motion_design_1/static/js/main.afc56e63.js.map"
   },
   "entrypoints": [
     "static/css/main.9d80c8ad.css",
-    "static/js/main.60053cad.js"
+    "static/js/main.afc56e63.js"
   ]
 }
