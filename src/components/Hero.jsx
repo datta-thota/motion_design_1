@@ -98,13 +98,13 @@ const CokeHero = () => {
 </div>
 
 <motion.div
-  className="absolute bottom-20 w-full z-30 text-center px-6 sm:px-10"
+  className="absolute bottom-24 w-full z-30 text-center px-6 sm:px-10"
   initial="hidden"
   animate="visible"
 >
   {/* HEADLINE */}
   <motion.h1
-    className="text-[11vw] sm:text-6xl font-['Playfair_Display'] font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#ff3c3c] to-[#b40000] tracking-tight leading-[1.1] drop-shadow-[0_3px_10px_rgba(0,0,0,0.4)]"
+    className="text-[12vw] sm:text-[6vw] font-['Playfair_Display'] font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#ff002b] to-[#870000] tracking-tight leading-[1.05] drop-shadow-[0_4px_20px_rgba(0,0,0,0.6)]"
     variants={textVariants}
     custom={0}
     style={{
@@ -117,25 +117,25 @@ const CokeHero = () => {
 
   {/* SUBTEXT */}
   <motion.p
-  className="mt-5 text-[4vw] sm:text-lg text-white font-['DM_Sans'] font-light max-w-xl mx-auto tracking-wide leading-relaxed drop-shadow-[0_2px_6px_rgba(0,0,0,0.6)]"
-  variants={textVariants}
-  custom={0.3}
->
-  A legacy refreshed. <br />
-  <span className="font-semibold text-white">By Datta Thota</span>.
-</motion.p>
-
+    className="mt-4 text-white/80 text-[4.8vw] sm:text-lg font-['Inter'] font-light max-w-xl mx-auto leading-snug"
+    variants={textVariants}
+    custom={0.3}
+  >
+    Iconic. Effervescent. Eternal. <br />
+    Coca-Cola, reimagined for a bold new world.
+  </motion.p>
 
   {/* CTA BUTTON */}
   <motion.button
-    className="mt-8 px-10 py-3 rounded-full bg-gradient-to-r from-[#E50914] to-[#b40000] text-white font-['Inter'] font-semibold text-lg shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300"
+    className="mt-8 px-10 py-3 rounded-full bg-gradient-to-r from-[#f70000] to-[#7e0000] text-white font-['Inter'] font-semibold text-lg shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300"
     variants={textVariants}
     custom={0.6}
     whileHover={{ scale: 1.1 }}
   >
-    Drink Now
+    Open Happiness
   </motion.button>
 </motion.div>
+
 
 
     </div>
